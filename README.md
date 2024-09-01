@@ -10,6 +10,6 @@ JavaScript
 _Back-end:_
 Python
 
-(![Laura Nicácio](https://github.com/user-attachments/assets/2525c107-c152-4291-9955-10c97a36ffaa)
-)
+![Laura Nicácio](https://github.com/user-attachments/assets/2525c107-c152-4291-9955-10c97a36ffaa)
+
 
