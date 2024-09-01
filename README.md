@@ -9,3 +9,5 @@ JavaScript
 **O que estou estudando**
 _Back-end:_
 Python
+![Meu Banner](https://![LN (1)](https://github.com/user-attachments/assets/d6bee7bc-a64f-4d84-a008-99b844d52430)
+)
