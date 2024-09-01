@@ -9,5 +9,7 @@ JavaScript
 **O que estou estudando**
 _Back-end:_
 Python
-![Meu Banner](https://![LN (1)](https://github.com/user-attachments/assets/d6bee7bc-a64f-4d84-a008-99b844d52430)
+
+![Meu Banner](https://![Laura Nicácio](https://github.com/user-attachments/assets/2525c107-c152-4291-9955-10c97a36ffaa)
 )
+
